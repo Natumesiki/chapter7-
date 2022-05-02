@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 
-.blog-top {
+.main-visual {
   width:100%;
   height:400px;
   background-image:url(img/mv.jpg);
@@ -12,35 +12,44 @@
   background-position:center;
 }
 
-.heading {
-   color:#6c6b6b;
+.headline {
    padding:20px;
-   font-size:15px;
    
 }
 
 
-a {
-  color:#6c6b6b;
-}
-
-.blog{
-  width:840px;
+main {
+  width: 840px;
   margin: 50px auto;
 }
 
-.blog-box {
+
+.section1 {
   margin-bottom:30px;
   border-bottom:1px solid #d1d1d1;
   padding-bottom: 30px;
 }
 
-.logo1{
-  
+.section2 {
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
 
-.blog-heading{
-  
+.section3 {
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
 
+.section4 {
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
 
+.section1 {
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
