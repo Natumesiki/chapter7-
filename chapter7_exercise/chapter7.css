@@ -5,11 +5,11 @@
 }
 
 .main-visual {
-  width:100%;
   height:400px;
+  width:100%;
   background-image:url(img/mv.jpg);
   background-size:cover;
-  background-position:center;
+  background-position:bottom;
 }
 
 .headline {
@@ -34,7 +34,7 @@ main {
   margin-bottom:30px;
   border-bottom:1px solid #d1d1d1;
   padding-bottom: 30px;
-}
+}sss
 
 .section3 {
   margin-bottom:30px;
